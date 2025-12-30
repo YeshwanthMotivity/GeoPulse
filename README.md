@@ -4,10 +4,10 @@
 
 ## ✨ Features
 
-- **🗺️ Interactive Explorer**: Search for any country to instantly view a curated "Cultural Snapshot" covering Greetings, Dining, and Taboos.
-- **🧠 "Test Your Knowledge" Quiz**: A gamified experience with progress tracking and immediate feedback to test your cultural IQ.
-- **💬 AI Geo Assistant**: A smart, context-aware chatbot (powered by Google Gemini) that answers specific questions like *"Can I tip in Japan?"* or *"What is the dress code in Brazil?"*.
-- **💎 Premium UI**: A fully responsive, glassmorphism-inspired design featuring smooth animations, "blob" backgrounds, and dark-mode aesthetics for the quiz.
+- **Interactive Explorer**: Search for any country to instantly view a curated "Cultural Snapshot" covering Greetings, Dining, and Taboos.
+- **Test Your Knowledge" Quiz**: A gamified experience with progress tracking and immediate feedback to test your cultural IQ.
+- **AI Geo Assistant**: A smart, context-aware chatbot (powered by Google Gemini) that answers specific questions like *"Can I tip in Japan?"* or *"What is the dress code in Brazil?"*.
+- **Premium UI**: A fully responsive, glassmorphism-inspired design featuring smooth animations, "blob" backgrounds, and dark-mode aesthetics for the quiz.
 
 ## 🛠️ Tech Stack
 
@@ -95,13 +95,13 @@ GeoPulse/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
----
+
 
 ## Author
 
 **Yeshwanth Goud** - [MotivityLabs](https://motivitylabs.com)
 
----
+
 
 ## Acknowledgments
 
@@ -109,5 +109,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Groq for prompt optimization
 - spaCy for NER
 - TextRazor for entity recognition
-  
-
