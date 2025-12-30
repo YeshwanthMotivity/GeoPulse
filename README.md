@@ -90,3 +90,24 @@ GeoPulse/
         │   └── ...
 ```
 
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+---
+
+## Author
+
+**Yeshwanth Goud** - [MotivityLabs](https://motivitylabs.com)
+
+---
+
+## Acknowledgments
+
+- Google Gemini for LLM capabilities
+- Groq for prompt optimization
+- spaCy for NER
+- TextRazor for entity recognition
+  
+
