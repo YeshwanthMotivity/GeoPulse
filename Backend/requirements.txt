@@ -1,0 +1,24 @@
+# Core framework
+fastapi==0.115.0
+uvicorn==0.30.6
+
+# Database
+sqlalchemy==2.0.23
+psycopg2-binary==2.9.9    # PostgreSQL connector
+
+# Data validation
+pydantic==2.9.2
+pydantic-settings==2.3.4  # For environment variables (DB URL etc.)
+
+# NLP (Hugging Face models, translations)
+transformers==4.44.2
+torch==2.4.1
+sentencepiece==0.2.0
+protobuf==5.27.3
+
+# Optional: OpenAI API
+openai==1.45.0
+
+# For CORS (React <-> FastAPI communication)
+python-multipart==0.0.9
+requests==2.32.3

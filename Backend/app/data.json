@@ -1,0 +1,34 @@
+{
+  "India": {
+    "greeting": "Namaste 🙏",
+    "etiquette": "Use both hands when giving or receiving something.",
+    "do_dont": {
+      "do": "Touch feet of elders as a sign of respect.",
+      "dont": "Avoid touching someone’s head."
+    }
+  },
+  "Japan": {
+    "greeting": "Konnichiwa 👋",
+    "etiquette": "Bow when greeting, avoid loud conversations in public.",
+    "do_dont": {
+      "do": "Remove shoes before entering a home.",
+      "dont": "Do not tip at restaurants."
+    }
+  },
+  "Germany": {
+    "greeting": "Hallo 👋",
+    "etiquette": "Be punctual; time is respected highly.",
+    "do_dont": {
+      "do": "Shake hands when greeting.",
+      "dont": "Do not be late."
+    }
+  },
+  "America": {
+    "greeting": "Hello 👋",
+    "etiquette": "Casual and friendly greetings are common.",
+    "do_dont": {
+      "do": "Maintain eye contact when speaking.",
+      "dont": "Don’t invade personal space."
+    }
+  }
+}
